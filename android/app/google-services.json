@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963675411809",
+    "project_id": "flutterapplication-f9cfd",
+    "storage_bucket": "flutterapplication-f9cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963675411809:android:fac309468da7c1d9852120",
+        "android_client_info": {
+          "package_name": "com.axiy.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGhquwc3H8blDjxENzxKplxbUpYuYsJUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
